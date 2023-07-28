@@ -1,0 +1,68 @@
+body {
+	font-family : arial, helvetica, sans-serif;
+	font-size : 10pt;
+}
+
+A:visited {
+   color : #A7741C; 
+}
+
+A:link {
+   color : #3F7FA7; 
+}
+
+A:active {
+   color : #3F7FA7; 
+}
+
+td  {
+	color: #000000;
+	font-family : arial, helvetica, sans-serif;
+	font-size : 10pt;
+}
+
+p  {
+	color: #000000;
+	font-family : arial, helvetica, sans-serif;
+	font-size : 10pt;
+}
+
+.smalltext  {
+	color: #000000;
+	font-family : arial, helvetica, sans-serif;
+	font-size : 8pt;
+}
+
+.largertext  {
+	color: #000000;
+	font-family : arial, helvetica, sans-serif;
+	font-size : 12pt;
+}
+
+.hpwhitetext  {
+	color: #BAB4B4;
+	font-family : arial, helvetica, sans-serif;
+	font-size : 8pt;
+}
+
+A.copyright  {
+	color: #7C99AB;
+	font-family : arial, helvetica, sans-serif;
+	font-size : 8pt;
+}
+
+.bioshdr  {
+	color: #9A6100;
+	font-family : arial, helvetica, sans-serif;
+	font-size : 12pt;
+	font-weight: bold;
+}
+
+.exhibithdr  {
+	color: #9A6100;
+	font-family : arial, helvetica, sans-serif;
+	font-size : 12pt;
+	font-weight: bold;
+}
+
+
